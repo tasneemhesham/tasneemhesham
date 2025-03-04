@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tasneem Hesham</h1>
-<h3 align="center">A passionate AI Engineer</h3>
+<h3 align="center">A Passionate AI Engineer</h3>
 
 - 🌱 I’m currently learning **Computer Vision**
 
